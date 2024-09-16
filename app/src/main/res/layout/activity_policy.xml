@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/background" />
+
+    <WebView
+        android:id="@+id/policy"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="80dp"
+        />
+    
+    
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="126dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/top"/>
+    
+  
+
+    <ImageView
+        android:layout_width="118dp"
+        android:layout_height="38dp"
+        android:src="@drawable/policy_text"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="30dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:layout_width="53dp"
+        android:layout_height="53dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:background="@drawable/back_sel"
+        android:onClick="home"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

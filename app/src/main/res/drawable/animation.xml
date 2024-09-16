@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"  android:oneshot="true">
+    <item android:drawable="@drawable/confetti_component" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_1" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_2" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_3" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_4" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_5" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_6" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_7" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_8" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_9" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_10" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_11" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_12" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_13" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_14" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_15" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_16" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_17" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_18" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_19" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_20" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_21" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_22" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_23" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_24" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_25" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_26" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_27" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_28" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_29" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_30" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_31" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_32" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_33" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_34" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_35" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_36" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_37" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_38" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_39" android:duration="48"/>
+    <item android:drawable="@drawable/confetti_component_40" android:duration="48"/>
+
+</animation-list>

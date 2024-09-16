@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400&display=swap');
+
+body {
+    background-color: rgba(0, 0, 0, 0); /* Прозрачный фон */
+    color: #fff;
+    font-family: 'Rubik', sans-serif; /* Шрифт Rubik */
+    margin: 20px;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Тень для заголовков */
+}
+
+p {
+    color: #fff;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6); /* Тень для абзацев */
+}
